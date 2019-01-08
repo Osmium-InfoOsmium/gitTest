@@ -1,11 +1,11 @@
 body{
     background-color: #097575c4 
-
 }
+/* Новый комент */
 p{
-    color: rgb(68, 7, 5)
+    color: #2b0402
 }
 
 h2{
-    font-size: 50px;
+    font-size: 60px;
 }
